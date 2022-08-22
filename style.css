@@ -1,0 +1,36 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    color: #04aa6d;
+}
+
+#caption{
+    color: grey;
+}
+
+p{
+    color: #04aa6d;
+}
+
+.icons{
+    color: black;
+}
+
+#btn{
+    border: none;
+    background-color: #04aa6d;
+    border-radius: 20px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+
+#btn:hover{
+    background-color: #56ffc1;
+}
